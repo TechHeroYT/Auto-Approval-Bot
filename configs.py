@@ -1,6 +1,7 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @hero_botss
+# Subscribe YouTube Channel For Amazing Bot @bots_repo
+# Ask Doubt on telegram @hero_botss
+
 
 
 from os import path, getenv
@@ -16,6 +17,7 @@ class Config:
     
 cfg = Config()
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @hero_botss
+# Subscribe YouTube Channel For Amazing Bot @bots_repo
+# Ask Doubt on telegram @hero_botss
+

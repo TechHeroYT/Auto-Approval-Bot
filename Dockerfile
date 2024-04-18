@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @hero_botss
+# Subscribe YouTube Channel For Amazing Bot @bots_repo
+# Ask Doubt on telegram @hero_botss
 
 FROM python:3.10
 
